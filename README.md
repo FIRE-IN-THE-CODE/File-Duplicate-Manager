@@ -3,8 +3,7 @@ File Duplicate Manager is a python script that can be used to increase storage s
 
 Note: Use extra caution when using this on important files. Use the only preview mode or backup files before use.
 
+<b>This is a pre-release and is not ready for use.</b>
+
 ## Requirements
 Requires Python3 to be installed.
-
-### Build Status
-In progress.
